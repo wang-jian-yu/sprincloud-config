@@ -1,2 +1,0 @@
-# sprincloud-config
-sprincloud-config
